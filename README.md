@@ -1,9 +1,8 @@
 <div align="center">
-  <br />
-      <img src="./Image-from.png" alt="Project Banner">
+    <h1 align="center">Shop Admin Panel</h1>
+      <img src="./dashboard-panel-website image.jpg" alt="Project Banner">
   <br />
 
-  <h1 align="center">Shop Admin Panel</h1>
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=black&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=orange&logo=firebase&color=FFCA28" alt="firebase" />
@@ -13,23 +12,23 @@
     </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
 The "Shop Admin Panel" is a powerful tool for e-commerce administrators to manage their online storefront. With features such as product management, category organization, and subcategory handling, it simplifies the complexity of online shop maintenance. The application’s intuitive design ensures a seamless user experience, while its responsive layout guarantees accessibility across various devices.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - React.js: A JavaScript library for building user interfaces
 - Firebase: A comprehensive app development platform that provides backend services such as data storage, authentication, and cloud functions
 
-## <a name="features">🔋 Features</a>
+## 🔋 Features
 
 👉 **CRUD Operations**: Full create, read, update, and delete capabilities for products, categories, and subcategories.
 
@@ -39,7 +38,7 @@ The "Shop Admin Panel" is a powerful tool for e-commerce administrators to manag
 
 👉 **Responsive Design**: A mobile-friendly interface that adapts to different screen sizes for optimal user experience.
 
-## <a name="quick-start">🤸 Quick Start</a>
+## 🤸 Quick Start
 
 To get the project up and running on your local machine, follow these steps.
 
@@ -53,7 +52,7 @@ Ensure you have the following installed:
 
 **Cloning the Repository**
 
-```bash
+```bash {"id":"01HT0ACHVMGSRF60B8W8CNFQC7"}
 git clone https://github.com/yourusername/shop-admin-panel.git
 cd shop-admin-panel
 ```
@@ -62,13 +61,13 @@ cd shop-admin-panel
 
 Install the necessary dependencies using npm:
 
-```bash
+```bash {"id":"01HT0ACHVMGSRF60B8WAAB6FRN"}
 npm install
 ```
 
 **Running the Project**
 
-```bash
+```bash {"id":"01HT0ACHVMGSRF60B8WAVGRYWD"}
 npm start
 ```
 
